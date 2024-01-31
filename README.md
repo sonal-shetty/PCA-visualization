@@ -1,0 +1,1 @@
+In this code, I have tried to demonstrate application of dimensionality reduction in Python to visually explore FIFA players giving similar performances when multiple performance metrics are considered
